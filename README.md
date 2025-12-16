@@ -15,10 +15,10 @@ I focus on understanding how AI systems work end-to-end — from data handling a
 
 
 ### 🛠️ Technical Skills
-- **Languages:** Python  
+- **Languages:** Python, SQL
 - **AI / GenAI:** LangChain, Prompt Engineering, LLM APIs  
 - **Concepts:** RAG, Embeddings, Vector Search  
-- **Backend:** Basic Flask  
+- **Backend:** Django, Basic Flask  
 - **Tools:** Git, GitHub  
 
 
@@ -34,7 +34,7 @@ upload PDF files and ask natural language questions.
 - Context-aware responses using an LLM
 - End-to-end RAG pipeline implementation
 
-**Tech:** Python, LangChain, LLM API
+**Tech:** Python, Streamlit, LangChain, LLM API
 
 
 
@@ -47,7 +47,7 @@ basic insights based on user inputs.
 - AI-assisted response generation
 - Focus on logic design and AI integration
 
-**Tech:** Python, AI APIs
+**Tech:** Python, Streamlit, AI APIs
 
 
 
@@ -61,7 +61,7 @@ using rule-based logic and AI-assisted responses.
 - AI-assisted recommendations for better decision support
 - Focus on accessibility and real-world rural use cases
 
-**Tech:** Python, AI APIs, Rule-based logic
+**Tech:** Python, Django, Gemini Vision APIs, Rule-based logic
 
 
 
